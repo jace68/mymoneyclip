@@ -1,10 +1,11 @@
 mymoneyclip
 ===========
 
-Sample version of MyMoneyClip
-Responsive Web App for money management system
+Sample version of MyMoneyClip 
 
-Used:
+##Responsive Web App for money management system
+
+##Used:
   HTML/CSS
   JavaScript/JQuery
   MVC AngularJS
